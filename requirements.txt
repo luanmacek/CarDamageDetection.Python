@@ -1,0 +1,7 @@
+pyodbc
+Pillow
+tensorflow[and-cuda]
+keras_tuner
+scikit-learn
+GPUtil
+ultralytics
